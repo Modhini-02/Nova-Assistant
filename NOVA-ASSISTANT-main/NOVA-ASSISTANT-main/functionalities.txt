@@ -1,0 +1,188 @@
+1. Application Control
+    Open Applications:
+
+                    Notepad
+
+                    Calculator
+
+                    File Explorer
+
+                    VS Code (if installed and added to PATH)
+
+        Close Applications:
+
+            close     //   Notepad
+
+               //     Calculator
+
+                //    File Explorer
+
+                 //   Browsers (Chrome, Edge, Firefox, Brave)
+
+        Type in Notepad:
+
+                    Type text into an open Notepad window.
+
+                    Save Notepad File:
+
+                 //   Save the current Notepad file with a specified name.
+
+2. File and Directory Management
+    Open Directories:
+
+                    Pictures
+
+                    Documents
+
+                    Downloads
+
+                    Music
+
+Create Directory:
+
+Create a new folder in the current directory.
+
+Rename File/Directory:
+
+Rename a file or folder.
+
+Delete File/Directory:
+
+Delete a file or folder.
+Navigate Directories:
+
+Move to a specific directory.
+
+Move one level up (go out of the current directory).
+
+Switch Drives:
+
+//Switch to a different drive (e.g., D: drive).
+
+Copy File:
+
+//Copy a file from one location to another.
+
+Move File:
+
+//Move a file from one location to another.
+
+3. Browser Control
+  Open Websites:
+
+                Google
+
+                YouTube
+
+             //   Twitter
+
+                Instagram
+
+                Gmail
+
+                Wikipedia
+
+                Flipkart
+
+                Amazon
+
+  Search Google:
+
+    Search for a query on Google.
+
+    Open a specific website directly if the query matches a known website (e.g., "abc.com").
+
+    Open Browser:
+
+    Open the default browser (Chrome or Edge).
+
+4. Media Control
+  Play Media:
+
+   Play a song (currently set to example.mp3).
+
+5. Text Editing and Clipboard Operations
+   Type Text:
+
+   Type text in the active window.
+
+Select All:
+
+Select all text in the active window.
+
+Copy:
+
+Copy selected text to the clipboard.
+
+Paste:
+
+Paste text from the clipboard.
+
+Cut:
+
+Cut selected text.
+
+Undo:
+
+Undo the last action.
+
+Redo:
+
+Redo the last action.
+
+Find Text:
+
+Search for text in the active window.
+
+Replace Text:
+
+Replace text in the active window.
+
+6. Voice Interaction
+Speech Recognition:
+
+Listen to user commands via microphone.
+
+Text-to-Speech:
+
+Respond to user commands with spoken feedback.
+
+7. Database Integration
+Store Conversation History:
+
+Store user commands and assistant responses in a MongoDB database.
+
+Retrieve Conversation History:
+
+Retrieve past conversations for a specific user.
+
+Reset Conversation History:
+
+Delete all conversation history for a specific user.
+
+8. Error Handling
+Handle Invalid Commands:
+
+Respond with "Command not recognized" for invalid commands.
+
+Handle Errors:
+
+Provide error messages for failed operations (e.g., "VS Code not found").
+
+9. GUI (Tkinter)
+Start/Stop Assistant:
+
+Start or stop the assistant using the GUI.
+
+Display Conversation:
+
+Display user commands and assistant responses in the GUI.
+
+10. Advanced Features
+Contextual Responses:
+
+Generate responses using the Gemini API for general queries.
+
+Confirmation Prompts:
+
+Ask for confirmation before performing destructive actions (e.g., delete, rename).

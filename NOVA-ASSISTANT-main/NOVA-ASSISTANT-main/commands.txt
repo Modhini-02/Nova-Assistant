@@ -1,0 +1,92 @@
+youtube music play:
+
+                play song name or any video name on youtube
+
+                play or pause youtube //Works only if you are in youtube
+Vs code Commands:
+
+        open vs code --> to open 
+        open vs code --> to close
+
+        create new extension file --> to create new file with extension
+        eg:create new python file
+
+        write specific code in file name --> to write code in specific file //if file not exist it will create new file with that specific extension 
+        eg:write bubble sort in python file
+
+        run filename extension file --> to run specific files
+        eg:run test python file
+
+
+Scroll Operations:
+
+        scrool up --> to scroll upwards
+        scroll down --> to scrool downwards
+
+Music operations:
+
+        open music or video -->
+        opens default music or video player if no default it opens what remaining in the system
+
+        close media player --> close the opened media player
+
+        next song --> play next song of one song is playing
+        previous song --> play previous song 
+        pause music --> to pause music
+        play music --> to play music
+
+        increase volume --> to increase volume
+        decrease volume --> to decreace volume
+web browsing:
+        search anything // it will search it in google
+applications:
+        open applicationname // opens only few
+        notepad:
+           open notepad 
+           type something
+           close notepad
+gmail operations:
+        open gmail
+        compose mail:
+             mail
+             subject
+             body
+        find mail mailname
+        read nth mail
+        close gmail
+whatsapp operations:
+        open whatsapp
+        close whatsapp
+        send message message
+        send message to personname
+        view status
+        voice call 
+        video call
+system operations:
+        volume up
+        volume down
+        set volume to 50
+        toggle mute
+        increase brightness
+        decrease brightness
+        set brightness to 50
+        Display settings
+        display night light 
+        enable dark light
+        disable dark mode
+        system info
+        speed test
+        restart 
+        Shutdown
+file operations:
+        go to directoryname
+        go out from directoryname
+        create file filename
+        create folder foldername
+        delete filename/foldername
+        rename filename/foldername
+        copy filename
+        Paste
+        move filename to foldername / move foldername to drivename/foldername
+        open filename with applicationname
+

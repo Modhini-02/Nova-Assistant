@@ -1,0 +1,30 @@
+speechrecognition==3.10.0
+pyttsx3==2.90
+pyautogui==0.9.54
+pygetwindow==0.0.9
+google-generativeai>=0.3.0
+
+requests>=2.31.0
+psutil
+screen_brightness_control
+platform
+ os
+ subprocess
+ time
+ pyautogui
+ pygetwindow 
+ winreg
+ urllib.parse
+ psutil
+   os
+  subprocess
+  cv2
+  numpy as np
+  mss
+  pyautogui
+  time
+    time
+  webbrowser
+  pyautogui
+  pygetwindow 
+  speech_recognition 
